@@ -10,8 +10,8 @@
 
 <script setup>
 import { ref } from 'vue'
-import resim from 'C:/Users/Zehra Karakaya/Desktop/proje3/VueWebUI/src/assets/imgs/coding-language.png'
-import resim2 from 'C:/Users/Zehra Karakaya/Desktop/proje3/VueWebUI/src/assets/imgs/document.png'
+import resim from '@/assets/imgs/coding-language.png'
+import resim2 from '@/assets/imgs/document.png'
 let id = 1
 
 const skills = ref([

@@ -44,7 +44,7 @@ function scrollRight() {
 
 <style scoped>
 .projects {
-  background-image: url('C:\Users\Zehra Karakaya\Desktop\proje3\VueWebUI\src\components\gif\2iiH.gif');
+  background-image: url('src/components/gif/2iiH.gif');
 }
 /* Konteyner ve buton stili */
 .scroll-container {

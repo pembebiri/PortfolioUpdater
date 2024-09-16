@@ -1,8 +1,7 @@
 <template>
   <section id="contact">
     <div class="contact">
-      <h1>İletişim</h1>
-      <p>This is the About Me section.</p>
+      
     </div>
   </section>
 </template>

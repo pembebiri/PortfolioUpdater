@@ -19,7 +19,7 @@
       </div>
       <div class="gif-section">
         <img
-          src="C:\Users\Zehra Karakaya\Desktop\proje3\VueWebUI\src\components\gif\905629f91b2cc4b8931d44e1881c9275.gif"
+          src="@/components/gif/905629f91b2cc4b8931d44e1881c9275.gif"
           alt="Decorative GIF"
         />
       </div>

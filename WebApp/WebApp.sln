@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{7CA73CC0-921A-4A85-B835-16C210160BCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA73CC0-921A-4A85-B835-16C210160BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA73CC0-921A-4A85-B835-16C210160BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA73CC0-921A-4A85-B835-16C210160BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA73CC0-921A-4A85-B835-16C210160BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AFFA6E1-B06D-41D4-9474-887992918AED}
+	EndGlobalSection
+EndGlobal

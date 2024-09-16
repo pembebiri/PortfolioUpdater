@@ -1,9 +1,0 @@
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.AssemblyInfoInputs.cache
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.AssemblyInfo.cs
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.RazorAssemblyInfo.cache
-C:\Users\PC\Desktop\api\MyProjectAPI\obj\Debug\net8.0\MyProjectAPI.RazorAssemblyInfo.cs
