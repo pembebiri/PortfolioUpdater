@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|c:\\users\\zehra karakaya\\desktop\\proej\\portfolioupdater\\webapp\\entities\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|solutionrelative:entities\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CA73CC0-921A-4A85-B835-16C210160BCB}|WebApp\\WebApp.csproj|c:\\users\\zehra karakaya\\desktop\\portfolioupdater\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CA73CC0-921A-4A85-B835-16C210160BCB}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|c:\\users\\zehra karakaya\\desktop\\proej\\portfolioupdater\\webapp\\entities\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|solutionrelative:entities\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}|Repositories\\Repositories.csproj|c:\\users\\zehra karakaya\\desktop\\portfolioupdater\\webapp\\repositories\\ef core\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}|Repositories\\Repositories.csproj|solutionrelative:repositories\\ef core\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|c:\\users\\zehra karakaya\\desktop\\proej\\portfolioupdater\\webapp\\entities\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE475D1-8947-42E2-BD6E-83B9088C1C3C}|Entities\\Entities.csproj|solutionrelative:entities\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}|Repositories\\Repositories.csproj|c:\\users\\zehra karakaya\\desktop\\portfolioupdater\\webapp\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FEF5CAA-816D-4316-9CB1-720DBB1D8252}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Users.cs",
-              "RelativeDocumentMoniker": "Entities\\models\\Users.cs",
-              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Users.cs",
-              "RelativeToolTip": "Entities\\models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:22:00.383Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T13:05:28.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Skills.cs",
-              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Skills.cs",
-              "RelativeDocumentMoniker": "Entities\\models\\Skills.cs",
-              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Skills.cs",
-              "RelativeToolTip": "Entities\\models\\Skills.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\EF Core\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\EF Core\\RepositoryContext.cs",
+              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\EF Core\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\EF Core\\RepositoryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:22:45.764Z",
+              "WhenOpened": "2024-09-29T12:53:19.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Projects.cs",
-              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Projects.cs",
-              "RelativeDocumentMoniker": "Entities\\models\\Projects.cs",
-              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\models\\Projects.cs",
-              "RelativeToolTip": "Entities\\models\\Projects.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T17:22:19.589Z",
+              "WhenOpened": "2024-09-29T12:48:36.642Z",
               "EditorCaption": ""
             }
           ]

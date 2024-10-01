@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Zehra Karakaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zehra Karakaya\\AppData\\Roaming\\NuGet\\NuGet.Config",

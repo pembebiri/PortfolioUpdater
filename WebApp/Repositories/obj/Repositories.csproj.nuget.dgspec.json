@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Zehra Karakaya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zehra Karakaya\\Desktop\\proej\\PortfolioUpdater\\WebApp\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Zehra Karakaya\\Desktop\\PortfolioUpdater\\WebApp\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zehra Karakaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
