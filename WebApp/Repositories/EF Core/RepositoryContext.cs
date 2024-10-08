@@ -15,5 +15,6 @@ namespace Repositories.EF_Core
         }
 
         public DbSet<>
+
     }
 }
