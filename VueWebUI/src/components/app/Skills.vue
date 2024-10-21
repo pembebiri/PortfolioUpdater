@@ -1,53 +1,37 @@
 <template>
-  <section id="skills">
-    <ul>
-      <li v-for="skill in skills" :key="skill.id">
-        <img :src="skill.image" :alt="skill.title" class="skill-image" />
-      </li>
-    </ul>
-  </section>
+<div class="grid-container">
+  <div class="grid-item">
+    <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\python.png" alt="Image 11" />
+  </div>
+  <div class="grid-item">
+    <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\nodejs.png" alt="Image 11" />
+  </div>
+  <div class="grid-item">
+    <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\java-script.png" alt="Image 11" />
+  </div>
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">6</div>
+  <div class="grid-item">6</div>
+
+</div>
 </template>
 
-<script setup>
-import { ref } from 'vue'
-import resim from '@/assets/imgs/coding-language.png'
-import resim2 from '@/assets/imgs/document.png'
-let id = 1
-
-const skills = ref([
-  {
-    id: id++,
-    title: '',
-    image: resim
-  },
-  {
-    id: id++,
-    title: '',
-    image: resim2
+<style>
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 sütun oluştur */
+    gap: 10px; /* Elemanlar arasına boşluk bırak */
   }
-])
-</script>
 
-<style scoped>
-.skills {
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
-}
-
-.skill-item {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.skill-image {
-  width: 100px; /* Resmin genişliği */
-  height: 100px; /* Resmin yüksekliği */
-  object-fit: cover; /* Resmi kapsayıcıya göre keser */
-  border-radius: 8px; /* İsteğe bağlı olarak köşeleri yuvarlatır */
-}
-ul {
-  display: inline;
-}
+  .grid-item {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box; /* Elemanlar kutu modeline göre hesaplanır */
+  }
 </style>
