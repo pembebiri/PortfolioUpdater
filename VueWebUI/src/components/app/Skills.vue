@@ -1,16 +1,22 @@
+<script setup>
+import pythonImg from '@/assets/imgs/python.png'
+import nodejsImg from '@/assets/imgs/nodejs.png'
+import jsImg from '@/assets/imgs/java-script.png'
+</script>
+
 <template>
   <section id="skills" class="skills">
-  <div class="grid-container">
-    <div class="grid-item">
-      <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\python.png" alt="Python" class="icon" />
+    <div class="grid-container">
+      <div class="grid-item">
+        <img :src="pythonImg" alt="Python" class="icon" />
+      </div>
+      <div class="grid-item">
+        <img :src="nodejsImg" alt="Node.js" class="icon" />
+      </div>
+      <div class="grid-item">
+        <img :src="jsImg" alt="JavaScript" class="icon" />
+      </div>
     </div>
-    <div class="grid-item">
-      <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\nodejs.png" alt="Node.js" class="icon" />
-    </div>
-    <div class="grid-item">
-      <img src="C:\Users\Zehra Karakaya\Desktop\PortfolioUpdater\VueWebUI\src\assets\imgs\java-script.png" alt="JavaScript" class="icon" />
-    </div>
-  </div>
   </section>
 </template>
 
